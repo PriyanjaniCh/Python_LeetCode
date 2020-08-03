@@ -1,5 +1,5 @@
 # Python3
-# August LeetCode Challenge - Day 3
+# August LC Challenge - Day 3
 # Valid Palindrome
 
 # Given a string, determine if it is a palindrome, considering only alphanumeric characters and ignoring cases.
