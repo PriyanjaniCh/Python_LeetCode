@@ -1,3 +1,7 @@
+# August LC Challenge 
+# Day 2
+# Design HashSet
+
 # Design a HashSet without using any built-in hash table libraries.
 
 # To be specific, your design should include these functions:
